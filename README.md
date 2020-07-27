@@ -1,6 +1,5 @@
 # Exoplanet
-test
-
+> *Created by Zach Nguyen
 Link to site: https://zachnguyen.github.io/Exoplanets-Visualization/
 
 Explore this data story ..
