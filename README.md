@@ -1,5 +1,3 @@
-Link to site: https://zachnguyen.github.io/Exoplanets-Visualization/
-
 # Introduction
 
 Not very long ago, the first people to discover exoplanets and jumpstart the hunt for worlds much like our own has [won the Nobel Prize for Physics](https://www.newscientist.com/article/2218951-nobel-prize-in-physics-for-discovery-of-exoplanet-orbiting-a-star/#:~:text=The%20Nobel%20prize%20in%20physics,Earth's%20place%20in%20the%20cosmos.!). 
@@ -17,6 +15,7 @@ Without further ado, let's arrive at our first visualization, a visualization th
 # Coordinate 3D Scatterplot of Stars that contain Exoplanets
 
 *Note: You can play around with the interactive 3D plot by zooming (mouse wheel), looking around (left mouse) or panning (right mouse). Reset camera to go back to default view and hover in for the finer details for each.
+*Here is an [extra instance](https://zachnguyen.github.io/Exoplanets-Visualization/) if you want to look at the visualization side by side.
 <iframe src="/images/Star_Coordinate_Viz_Norm.html" sandbox="allow-same-origin allow-scripts" width="120%" height="700" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 The plot shows a cartesian coordinate of the stars we have encountered which contain exoplanets in its systems. Some interesting points that we can learn from the plot are:
