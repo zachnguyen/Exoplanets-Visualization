@@ -15,8 +15,8 @@ Without further ado, let's arrive at our first visualization, a visualization th
 # Coordinate 3D Scatterplot of Stars that contain Exoplanets
 
 *Note: You can play around with the interactive 3D plot by zooming (mouse wheel), looking around (left mouse) or panning (right mouse). Reset camera to go back to default view and hover in for the finer details for each.
-*Here is an [extra instance](https://zachnguyen.github.io/Exoplanets-Visualization/) if you want to look at the visualization side by side.
 <iframe src="/images/Star_Coordinate_Viz_Norm.html" sandbox="allow-same-origin allow-scripts" width="120%" height="700" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+*Here is an [extra instance](https://zachnguyen.github.io/Exoplanets-Visualization/) if you want to look at the visualization side by side.
 
 The plot shows a cartesian coordinate of the stars we have encountered which contain exoplanets in its systems. Some interesting points that we can learn from the plot are:
 - The stars we've found exoplanets in are not very uniformly dispersed. If we've collected perfect data, this would mean something in the trend. Unfortunately, the non-uniform distribution is due to availability bias (We've only had the ability to look closely on a certain patches of the sky and not everywhere, therefore we didn't find exoplanets everywhere).
