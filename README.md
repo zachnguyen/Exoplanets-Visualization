@@ -2,11 +2,11 @@ Link to site: https://zachnguyen.github.io/Exoplanets-Visualization/
 
 # Introduction
 
-![](https://www.economist.com/sites/default/files/images/2018/10/articles/main/20181006_stp003.jpg)
-
 Not very long ago, the first people to discover exoplanets and jumpstart the hunt for worlds much like our own has [won the Nobel Prize for Physics](https://www.newscientist.com/article/2218951-nobel-prize-in-physics-for-discovery-of-exoplanet-orbiting-a-star/#:~:text=The%20Nobel%20prize%20in%20physics,Earth's%20place%20in%20the%20cosmos.!). 
 
 Exploring distant worlds not only enhances our scientific knowledge, but also is fascinating in the own sense. It speaks to our common sense of curiosity and adventure into the unknown. In these times of pandemic and divisiveness, perhaps a common fascination of the universe will unite the human race regardless of gender, ethnicity or socio-economic background.
+
+![](https://www.economist.com/sites/default/files/images/2018/10/articles/main/20181006_stp003.jpg)
 
 As a data scientist and an astrophysics enthusiast myself, I want to do these findings justice by sharing two key visualizations. The purpose of this blog is to display the power of data visualization to illumninate some of the coolest things we have figured out. 
 
